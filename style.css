@@ -52,3 +52,12 @@ body{
     width: 100%;
     height: 200px;
 }
+
+.placar {
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 2rem;
+    margin-right: 20px;
+}
